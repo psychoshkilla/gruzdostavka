@@ -1,0 +1,10 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Папка с настройками IDE
+.vscode/
+.idea/
+
+# Логи
+*.log
